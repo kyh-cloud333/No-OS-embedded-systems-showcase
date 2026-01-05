@@ -1,6 +1,7 @@
 **Please make sure you have the following installed:**
 
 CC1350 SDK: https://www.ti.com/tool/SIMPLELINK-CC13X0-SDK#downloads
+
 TI Driver 2.21.01.08: https://software-dl.ti.com/dsps/dsps_public_sw/sdo_sb/targetcontent/tirtos/
 
 
